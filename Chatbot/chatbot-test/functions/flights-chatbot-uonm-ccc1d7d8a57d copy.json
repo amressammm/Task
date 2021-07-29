@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flights-chatbot-uonm",
+  "private_key_id": "ccc1d7d8a57dd06151706170d6de984bc9f6d8a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLURR64rhoxQal\nkyZ7FcnvtJEn6sRVa64xhbkP+YfFqWTlFG0IuldHOrrEneUiI9J6IjNpk4I8O5WS\nNKiV9JQRMAIYBtJ3YdUWz6ekFOz6vpG91QQqOpGHRAdUL1DTSV9JYa7Csd4WKDMq\n+BWv5TThNwxNHhfWDWYNJdskZwRq2peXkEBf8ntE6Vh39XvsaKqhWyAkNE8loy0L\nXbRNdFHTtFV2mfhHKIcIVTvY/QSV3sQSu6+cCRTxuihWJahkpptgI3QpweN5LCT1\nH80aTtB16OQMWd4Jl2810oPSZ89kGZWehNI7648rqv0m9GW1ZkA7bbHfdxMTEnRp\nxJxpNWMlAgMBAAECggEAKW4jwoWg5JtPJjcz9t+cbXoLvsystWBv7Y9AYTVKQKhm\n9k8UO8e6g9a9yxHPnc78XVDFbEyvKr1ndhLN3cZdsBzQSpfgyBridUWsq3mDne/F\nRKhP9ET1mT3MVic6CJNl0FtJzuF5U6qByPH89RGbH6ywrlBYM1JJung7CsDOCf5m\nSn7D1q9h7udcQWqjgN/8nSjuX3A+zFtp5flMZBOHNzAuGFHuShfQ9EVmc/keb/cJ\n6KG+i6/M2WbD29wFGMPZ0H+QBO3BszkmQRMUni9BsJuFSMngaqneUGwXVNsD6Nby\nbiIESH/Zgmy1XmyIMlRe+q1FcWrWIhJ2j1q5ePSN8wKBgQC8+7nLdWHjHd1Jn+0v\nTZA/SKGqUOwG8bbtb60jJkzdt5SAOLGFjK+tNgtye4VUQnGYHgcLfeZwsJVzWt20\nTg6t6oWIVDR/1GJHNGXubGi1convRDs7XUs8vmiaSuGB2LjnJSnrfuU2FaSW6NlH\nzoyqMuVKrdqq14srCaVpjHrYfwKBgQC8uIZBP9Kwg8PiVNNVFFWBuHk1Z7JBHXBk\ngASF3WTeyq/e5x91D0JHnIwSITBVIhPYzq1PLDtDYr3u4VcqKZZ38KnIOyt1HSfX\nxfnL9UIFcmM09OVNx3o0KDc/Aga3aqw2YIzANLEnB8vv3aDsnrkmqJ9POCzIbGJF\nCWLJ3O6SWwKBgBpfnuwv83s4nbs6oGUrk+fhAP690FKfxQGZxjXTkIKYrha+0rdq\njNHFaw+NAWxi4WtzNVR7O3+ahSDWG36gLhhDVGNULQdx4k1BmMAPTQWVeH51rTZ5\nrJhLklmF/babQiKv4wvEZ8SGfLO6xyfoQWU3ORyU6qFQ91EIRZdXTYWNAoGBAJNP\n4pSKUlcw87X3iuNttPVGX279m9pSNYptl5o64GM8ih4QAbEpkQ4/N+Nq/sRljmJ9\nqjEUEMqgCCywv46M2gST2qQO8/Q+Jvy6cCvyLW/9A02yIFAfdtfB0KYhWcbQwM7N\nfPEH8ITMBDgfo18w4sw3ceuvqN1mJStIkVGLYLrjAoGADd5tyeoLdrzmXbu8H69o\nbL5H7rEVgZ7cgvqvKTs06RpYtCAjYh9H2mvZGO87FuI06Iisoh5MUNEWbCdmxEGA\no9BoRuTPRcCQJuMfCeOpk4kvQ9NW7xyhJTbWgQxkmCTSlfVK9zj1GFdEke274Zhl\ni7xjpTPCGI1Cc7BMx0mhhJ4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amr-838@flights-chatbot-uonm.iam.gserviceaccount.com",
+  "client_id": "115714539702175678869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amr-838%40flights-chatbot-uonm.iam.gserviceaccount.com"
+}
