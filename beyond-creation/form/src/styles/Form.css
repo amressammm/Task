@@ -1,0 +1,38 @@
+.container{
+    margin-left: 400px;
+    width: 500px;
+    height: 500px;
+    border: 3px solid rgb(30, 170, 230);
+    padding: 10px;
+    
+}
+
+.buttonDiv {
+    padding-top: 80px;
+    padding-left: 10px;
+  
+  }
+  
+  .firstOption{
+      padding-bottom: 40px;
+      padding-top: 70px;
+      
+  }
+
+  .button{
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    background-color:rgb(30, 170, 230);
+    font-size: 18px;
+    padding: 12px 28px;
+    
+  }
+  .backGround{
+      padding-top: 90px;
+      background-color: rgba(0, 0, 0, 0.961);
+      height: 1000px;
+  }
+  h1{
+      color: white;
+      
+  }

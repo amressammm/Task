@@ -1,0 +1,19 @@
+.root {
+    height: 150px;
+    margin: auto !important;
+    width: 50% !important;
+    border: 3px solid rgb(30, 170, 230);
+    padding: 10px !important;
+}
+
+.price {
+   margin-left: 180px;
+   margin-top: 40px;
+}
+
+
+.backGround {
+    padding-top: 90px;
+    background-color: rgba(0, 0, 0, 0.961);
+    height: 1000px;
+}
